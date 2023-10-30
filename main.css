@@ -1,6 +1,6 @@
-div{background: color： #727 ;    
+body>div{background-color: #727 ;    
 }
 
-.id{
+#specialCase{
     background-color: #444444;
 }
